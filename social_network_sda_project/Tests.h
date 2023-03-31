@@ -1,0 +1,17 @@
+#pragma once
+void test_user();
+void test_friendship();
+void test_message();
+void test_event();
+void test_list();
+void test_multimap();
+void test_repo_user();
+void test_repo_friendship();
+void test_repo_message();
+void test_repo_event();
+void test_service_user();
+void test_service_friendship();
+void test_service_message();
+void test_service_event();
+void test_network();
+void test_all();
